@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ASH1998/pYcharge/blob/main/logo.png?raw=true" alt="Pycharge logo" title="pycharge" width="30%"/></p>
+<p align="center"><img src="logo.png" alt="Pycharge logo" title="pycharge" width="30%"/></p>
 
 # pYcharge
 A ml-helper Library           
